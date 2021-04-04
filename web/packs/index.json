@@ -1,8 +1,7 @@
 {
   "packs": [
     "linuxpack.json",
-    "funny.json",
-    "gamercat.json"
+    "funny.json"
   ],
   "homeserver_url": "https://matrix.meowtrix.ga"
 }
